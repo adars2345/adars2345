@@ -32,7 +32,7 @@
 
 #### 🧠 Languages & Tools I Use
 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,anaconda,jupyter,,pycharm,flask,mysql,postgres,cpp,pytorch" />
 </p>
 
