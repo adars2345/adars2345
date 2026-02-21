@@ -41,7 +41,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adars2345&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adars2345&show_icons=true" />
 </p>
 
 ---
@@ -49,7 +49,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adars2345&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adars2345&layout=compact" />
 </p>
 
 ---
@@ -57,8 +57,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adars2345&theme=darkhub&no-frame=true&margin-w=8&margin-h=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=adars2345" />
 </p>
+
 ---
 
 ### 📊 Contribution Graph
