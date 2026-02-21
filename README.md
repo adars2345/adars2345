@@ -32,13 +32,8 @@
 
 #### 🧠 Languages & Tools I Use
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,anaconda,jupyter,,pycharm,flask,mysql,postgres,cpp,pytorch" />
-</p>
 
----
-
-### 📊 GitHub Stats
+ [![My Skills]("https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,anaconda,jupyter,,pycharm,flask,mysql,postgres,cpp,pytorch")](https://skillicons.dev)
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adars2345&show_icons=true&theme=dark)
 
