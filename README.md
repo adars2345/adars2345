@@ -15,24 +15,26 @@
 <div id="badges">
 
   <a href="https://github.com/adars2345">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" />
   </a>
 
   <a href="https://www.linkedin.com/in/adarsh-saitwal-a64846348">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="https://adars2345.github.io/adarsh-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
 </div>
 
 ---
 
-### 🧠 Languages and Tools:
+### 🧠 Languages & Tools I Use
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,git,github,vscode,jupyter&perline=5)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,jupyter,mysql" />
+</p>
 
 ---
 
