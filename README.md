@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tech Adarsh Saitwal</h1>
+<h1 align="center">Hi 👋, I'm Adarsh Saitwal</h1>
 
 - 🎓 BCA Student | Aspiring AI / ML Engineer  
 - 🔭 I’m currently working on AI & Python Projects  
@@ -10,12 +10,12 @@
 
 ---
 
-#### 🔗 Connect with me:
+### 🔗 Connect with me:
 
 <div id="badges">
 
   <a href="https://github.com/adars2345">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black"/>
   </a>
 
   <a href="https://www.linkedin.com/in/adarsh-saitwal-a64846348">
@@ -30,10 +30,15 @@
 
 ---
 
-#### 🧠 Languages & Tools I Use
+### 🧠 Languages & Tools I Use
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,jupyter,mysql" />
+</p>
 
- [![My Skills]("https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,anaconda,jupyter,,pycharm,flask,mysql,postgres,cpp,pytorch")](https://skillicons.dev)
+---
+
+### 📊 GitHub Stats
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adars2345&show_icons=true&theme=dark)
 
