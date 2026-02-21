@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adarsh Saitwal</h1>
+<h1 align="center">Hi 👋, I'm Tech Adarsh Saitwal</h1>
 
 - 🎓 BCA Student | Aspiring AI / ML Engineer  
 - 🔭 I’m currently working on AI & Python Projects  
