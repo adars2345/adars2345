@@ -32,7 +32,7 @@
 
 ### 🧠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,ai,ml,git,github,vscode,anaconda,postgresql,pycharm,colab,replit,matplotlib,pytorch,flask,,sql,mysql,api,oracle,google,jupyter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,ai,ml,git,github,vscode,anaconda,postgresql,pycharm,colab,replit,matplotlib,pytorch,flask,excel,powerbi,tebleu,sql,mysql,api,oracle,google,jupyter&perline=5)](https://skillicons.dev)
 
 ---
 
