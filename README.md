@@ -32,7 +32,7 @@
 
 ### 🧠 Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,git,github,vscode,jupyter&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,git,github,vscode,anaconda,postgresql,pycharm,colab,replit,matplotlib,pytorch,flask,jango,sql,mysql,api,oracle,google,jupyter&perline=5)](https://skillicons.dev)
 
 ---
 
