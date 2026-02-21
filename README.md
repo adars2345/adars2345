@@ -10,7 +10,7 @@
 
 ---
 
-### 🔗 Connect with me:
+#### 🔗 Connect with me:
 
 <div id="badges">
 
@@ -30,10 +30,10 @@
 
 ---
 
-### 🧠 Languages & Tools I Use
+#### 🧠 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,jupyter,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,sklearn,matplotlib,git,github,vscode,anaconda,jupyter,,pycharm,flask,mysql,postgres,cpp,pytorch" />
 </p>
 
 ---
