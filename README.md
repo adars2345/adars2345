@@ -1,22 +1,47 @@
-Hi, I’m Adarsh Saitwal 👋
+<h1 align="center">Hi 👋, I'm Adarsh Saitwal</h1>
 
-🎓 BCA Student (2023–2026)
-💻 Python Enthusiast | Aspiring Data Scientist | AI Learner
+- 🎓 BCA Student | Aspiring AI / ML Engineer  
+- 🔭 I’m currently working on AI & Python Projects  
+- 🌱 I’m currently learning Machine Learning & Data Science  
+- 💬 Ask me about Python, AI Projects, Automation  
+- 📫 How to reach me: saitwaladarsh2004@gmail.com  
+- 🌐 My Portfolio Website: https://adars2345.github.io/adarsh-portfolio/  
+- ⚡ Fun fact: Building projects daily to become job-ready in AI  
 
-I’m passionate about exploring the world of **Python, Data Analysis, Artificial Intelligence, and Machine Learning**. I enjoy turning complex problems into simple, practical solutions using logical thinking, data visualization, and clean code.
+---
 
-Currently, I’m focused on building strong foundations in programming, data analysis, and real-world projects while continuously improving my problem-solving skills. I strongly believe in *learning by building*, sharing knowledge, and growing step-by-step toward becoming a professional in the AI & Data Science field.
+### 🔗 Connect with me:
 
-🔧 **Skills**
-Python | SQL | Excel | Data Analysis | GitHub
+<div id="badges">
 
-📂 **Projects**
-• Telco Customer Churn Analysis
-• Student Result Predictor
-• Calculator App
-• Basic Data Analysis Projects
+  <a href="https://github.com/adars2345">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
 
-🎯 **Goal**
-To gain internship experience, work on impactful real-world projects, and grow into a skilled software developer specializing in AI and data-driven technologies.
+  <a href="https://www.linkedin.com/in/adarsh-saitwal-a64846348">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 
-Let’s connect, collaborate, and create something meaningful together 🚀
+  <a href="https://adars2345.github.io/adarsh-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+
+</div>
+
+---
+
+### 🧠 Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,git,github,vscode,jupyter&perline=5)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adars2345&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adars2345&theme=dark)
+
+---
+
+⭐️ From [Adarsh](https://github.com/adars2345)
